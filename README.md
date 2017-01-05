@@ -1,4 +1,6 @@
-### tick-ext
-> extension for `tick` platform
+# tick-ext
+> extension for wcl `tick` platform
 
-`cmd/active` - get uuid of a running agent and send metrics to influxDB
+### client
+
+### server

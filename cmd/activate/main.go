@@ -1,4 +1,4 @@
-// how many agents are running
+// get uuid of a running agent and send metrics to influxDB
 package main
 
 import (
