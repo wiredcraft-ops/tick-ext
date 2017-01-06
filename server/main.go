@@ -1,5 +1,5 @@
 package server
 
-func Main(){
+func Main() {
 
 }

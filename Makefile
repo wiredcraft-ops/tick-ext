@@ -10,5 +10,5 @@ fmt:
 test:
 	go test ./...
 
-bin:
+bins:
 
